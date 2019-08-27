@@ -1,4 +1,3 @@
-Git is a version control system.
-hello git
-Git is free software
-This is a new file 
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+
